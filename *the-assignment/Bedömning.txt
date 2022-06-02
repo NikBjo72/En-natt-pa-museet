@@ -1,0 +1,24 @@
+1: 2/2p — Ok 
+2: 3/3p — Ok 
+3: 2/2p — Bra 
+4: 2/3p — Bra 
+5: 2/2p — Bra 
+6: 2/3p — Bra 
+7: 2/2p — Ok 
+8: 3/3p — Ok 
+9: 4/4p — Ok 
+10: 3/3p — Ok 
+11: 3/3p — Ok 
+12: 3/3p — Bra 
+13: 4/4p — Bra 
+14: 3/3p — Bra 
+15: 5/5p — Ok 
+16: 5/5p — Bra 
+17: 10/10p — Bra! 
+18: 2/2p — Ok 
+19: 12/12p — Kanon 
+20: 12/12p — Bra. Bra tankar, det kan ibland vara bra att använda mer generiska svar i dessa funktioner som sedan tolkas av UI-klasserna för att översätta på ett lämpligt sätt till användaren. På så sätt finns större flexibilitet om vi te.x. skulle vilja ha programmet på flera språk. Titta t.ex. lite på typen enum som fungerar bra för detta ändamål. 
+21: 14/14p — Jättebra.
+
+POÄNG: 98
+Omdöme: VG (100 möjliga poäng)
